@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - MVP Feature Spec.md",
+                "file": "Detailed Project Plan — Anime Idle RPG Gacha Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - MVP Feature Spec"
+              "title": "Detailed Project Plan — Anime Idle RPG Gacha Game"
+            }
+          },
+          {
+            "id": "4980855867c3bb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Mechanics"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - MVP Feature Spec.md",
+                "file": "Game Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02 - MVP Feature Spec"
+              "title": "Backlinks for Game Mechanics"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - MVP Feature Spec.md",
+                "file": "Game Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02 - MVP Feature Spec"
+              "title": "Outgoing links from Game Mechanics"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - MVP Feature Spec.md",
+                "file": "Game Mechanics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02 - MVP Feature Spec"
+              "title": "Outline of Game Mechanics"
             }
           }
         ]
@@ -197,12 +211,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b52d0ba65ace2347",
+  "active": "4980855867c3bb09",
   "lastOpenFiles": [
-    "01 - ExecutionPlan.md",
-    "00 - Vision.md",
-    "📌 Project: Anime Idle RPG Waifu Gacha Game.md",
     "Detailed Project Plan — Anime Idle RPG Gacha Game.md",
+    "Game Mechanics.md",
+    "📌 Project: Anime Idle RPG Waifu Gacha Game.md",
+    "00 - Vision.md",
+    "02 - MVP Feature Spec.md",
+    "01 - ExecutionPlan.md",
     "09 - Feedback Notes.md~",
     "Love the idle loop but too slow without token top-up.",
     "08 - Bugs + Fixes.md~",
@@ -220,7 +236,6 @@
     "05 - UI Wireframes.png",
     "04 - Token Economy.md",
     "03 - Characters + AI Templates.md",
-    "02 - MVP Feature Spec.md",
     "Vision.md",
     "Tech Stack Overview(Dev Tools).md",
     "Readme.md",
